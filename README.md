@@ -1,4 +1,4 @@
-<h1 align="center">Hi ,I'm Shobhit srivastava👋</h1>
+<h1 align="center">Hi ,I'm Shobhit Mishra M👋</h1>
 
 <h3 align="left">A front end   web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
 
